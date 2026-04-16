@@ -25,8 +25,6 @@ I am a final-year B.Tech student in the Department of Computer Science and Engin
 - ☁️ Previously a **DevOps Intern at C3i Hub, IIT Kanpur**, working with Kubernetes (K3s), Harbor, Longhorn, MinIO, Kasten K10, and Elasticsearch
 - 🏃 **Team Captain**, IIT Kanpur Athletics Team
 - 🎯 4★ Coder on CodeChef (1803) and Expert on Codeforces (peak 1667)
-- 📺 I run a YouTube channel on Competitive Programming, DSA, LeetCode Daily, and JEE Mathematics
-- 💬 Ask me about **React, Flask, Kubernetes, Docker, AWS, or Competitive Programming**
 
 ---
 
@@ -71,29 +69,20 @@ I am a final-year B.Tech student in the Department of Computer Science and Engin
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Experience
 
-### 🧩 [Annaforces](https://github.com/lohitpt252003)
-A full-stack competitive programming platform with a dynamic code editor, used by the IIT Kanpur Athletics team. Built with React, Flask, and Firebase with JWT auth, deployed via Docker on an AWS Ubuntu VM with a sandboxed execution environment for C, C++, and Python.
+### 🌊 Research Intern — IIT Kanpur | Prof. Rajeev Sinha | Aug 2025 – Present
+Designing and deploying a Machine Learning model to predict riverbank changes using geospatial shapefiles. Built a Flask backend to process `.zip` shapefiles, run ML inference, and generate predictive maps, along with an interactive Leaflet.js frontend integrated with the backend for seamless file upload, prediction, and visualization.
 
-### 🔢 [Sudoku Solver and Visualizer](https://github.com/lohitpt252003)
-A fully featured 9×9 Sudoku solver with an interactive visualizer, built with vanilla HTML, CSS, and JavaScript. Uses an optimized backtracking algorithm with real-time validation, puzzle generation, difficulty selection, and GitHub Pages deployment.
-
-### 💻 GemOS — Course Project (CS330)
-An advanced operating system implementation with custom memory management (memalloc / memfree using mmap / munmap), Directory Usage utility, and a cfork system call implementing copy-on-write for optimized process creation.
-
-### 🐢 Kachua Debugger — Course Project (CS335)
-A complete debugger for the custom Kachua language, featuring a robust parser and interpreter with runtime debugging, variable inspection, stepwise execution, and a visual UI for program flow and error detection.
-
-### 🌊 Riverbank Prediction Model — Research Project
-A Machine Learning model that predicts riverbank changes using geospatial shapefiles. Deployed with a Flask backend for ML inference on `.zip` shapefiles and an interactive Leaflet.js frontend for upload, prediction, and visualization.
+### ☁️ DevOps Intern — C3i Hub, IIT Kanpur | May 2025 – Jun 2025
+Strengthened the cloud-native infrastructure by deploying and managing DevOps tools on Kubernetes, ensuring scalability, resilience, automation, and reliable backup mechanisms for production workloads. Installed and configured a K3s cluster, deployed Harbor with cleanup policies, set up Longhorn for volumes and MinIO for scalable storage, integrated Kasten K10 for backup and restore, and configured Elasticsearch with NodePort and Ingress for monitoring. The result was a robust DevOps stack with persistent storage, automated recovery, and secure image management, significantly improving reliability of Kubernetes workloads.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lohitpt252003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lohitpt252003&show_icons=true&theme=tokyonight" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohitpt252003&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
@@ -109,7 +98,6 @@ A Machine Learning model that predicts riverbank changes using geospatial shapef
 
 ## 🏆 Achievements
 
-- 🎯 **99.9666282 percentile in Mathematics**, JEE Mains 2021 (among 1.5 million applicants)
 - 🥇 **4th overall rank** among IIT Kanpur students on GeeksforGeeks
 - ⭐ **4★ Coder on CodeChef** (peak rating 1803)
 - 🏅 **Expert on Codeforces** (peak rating 1667)
@@ -133,16 +121,12 @@ A Machine Learning model that predicts riverbank changes using geospatial shapef
   <a href="https://www.geeksforgeeks.org/user/ka25eq7lzy">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-  <a href="mailto:lohitpt21@iitk.ac.in">
+  <a href="mailto:lohitpt252003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
-
-<p align="center">
-  <i>“Strive not to be a success, but rather to be of value.” — Albert Einstein</i>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&text=&fontSize=0" width="100%"/>
